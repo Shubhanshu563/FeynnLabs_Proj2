@@ -97,4 +97,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-Feel free to customize any section to fit your project needs, including repository URLs, contributors, or additional instructions!
