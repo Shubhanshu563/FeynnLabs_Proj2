@@ -1,4 +1,3 @@
-Here’s a comprehensive README file for your project, structured to provide clarity on objectives, methodologies, and usage. You can adjust any section to better fit your style or project specifics.
 
 ---
 
