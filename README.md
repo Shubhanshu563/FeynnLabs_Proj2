@@ -74,7 +74,7 @@ To run this project locally, you need to have Python installed along with the fo
 
 You can install the required packages using pip:
 ```bash
-pip install pandas numpy scikit-learn matplotlib seaborn
+pip install -r requirements.txt
 ```
 
 ## Usage
